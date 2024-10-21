@@ -1,8 +1,9 @@
-                                                ![Imagen3](https://github.com/user-attachments/assets/d0e3b97c-fc3c-44e7-83c2-0d726f766e7c)
+   ![Imagen3](https://github.com/user-attachments/assets/d0e3b97c-fc3c-44e7-83c2-0d726f766e7c)
 
 Hola, soy Allan Gonzales, Analista de Datos con mas de 15 años de experiencia en administración de proyectos de ingeniería y construcción. Durante los últimos años he complementado mi formación de Ingeniería Empresarial e Innovación, con capacitaciones en Analisis de datos, Analítica de negocio y aprendizaje automático, lo cual me ha permitido tener una visión más clara sobre administración y gestión de proyectos, control de los procesos operativos y tomar decisiones basadas en datos y en tiempo real que optimicen el rendimiento organizacional.
 
 Competencias:
+
 •	Lenguajes y Herramientas: Python, SQL, Power BI, Excel.
 •	Manejo de bibliotecas: pandas, NumPy, scikit-learn (machine learning), Matplotlib, Seaborn (visualización).
 •	Estadística y Probabilidad: Conocimiento sólido de estadística descriptiva, inferencial y modelos predictivos.
