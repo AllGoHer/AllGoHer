@@ -7,16 +7,14 @@
 ![image](https://github.com/user-attachments/assets/d09816b5-d85c-49f3-9bac-7d3ccd837d0a)
 ![image](https://github.com/user-attachments/assets/c6249da5-94b4-4723-b0cd-5cecbed5ca7e)
 ![image](https://github.com/user-attachments/assets/49907793-9f28-4872-8ef4-c7b504e10fca)
-![image](https://github.com/user-attachments/assets/e712bedf-9f66-4987-9c3c-8a28dd722b32)
+![image](https://github.com/user-attachments/assets/e712bedf-9f66-4987-9c3c-8a28dd722b32) 
+![image](https://github.com/user-attachments/assets/b40a0914-67be-4261-983e-46274f65d4ac)
 ![image](https://github.com/user-attachments/assets/eedecf3a-bcf7-4642-9d4b-f133005739b4)
 ![image](https://github.com/user-attachments/assets/0c7aad38-e326-4c27-b9ea-82ec71b9327b)
 ![image](https://github.com/user-attachments/assets/21397cb2-7f22-435c-be0d-f670eb5fec66)
 ![image](https://github.com/user-attachments/assets/18a6251b-8d11-47a1-851f-a8924e514a0e)
 ![image](https://github.com/user-attachments/assets/fbfcb71b-4a3b-46ee-83a0-9c07d3e6edc7)
-![image](https://github.com/user-attachments/assets/9ec69216-be03-407c-a425-1a0adfd18058)
 ![image](https://github.com/user-attachments/assets/d4e0a626-135d-436a-9632-276813e8fe89)
-![image](https://github.com/user-attachments/assets/b40a0914-67be-4261-983e-46274f65d4ac)
-
 
 
 Hola, soy Allan Gonzales, Analista de Datos con mas de 15 años de experiencia en administración de proyectos de ingeniería y construcción. Durante los últimos años he complementado mi formación de Ingeniería Empresarial e Innovación, con capacitaciones en Analisis de datos, Analítica de negocio y aprendizaje automático, lo cual me ha permitido tener una visión más clara sobre administración y gestión de proyectos, control de los procesos operativos y tomar decisiones basadas en datos y en tiempo real que optimicen el rendimiento organizacional.
