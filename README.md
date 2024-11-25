@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/9533d6c9-9cdd-4a50-9cf7-03de746114b5)
 
 
-
+# 
 Hola, soy Allan Gonzales, Analista de Datos con mas de 15 años de experiencia en administración de proyectos de ingeniería y construcción. Durante los últimos años he complementado mi formación de Ingeniería Empresarial e Innovación, con capacitaciones en Analisis de datos, Analítica de negocio y aprendizaje automático, lo cual me ha permitido tener una visión más clara sobre administración y gestión de proyectos, control de los procesos operativos y tomar decisiones basadas en datos y en tiempo real que optimicen el rendimiento organizacional.
 
 Competencias:
@@ -60,14 +60,14 @@ Objetivo Profesional: Consolidar mi carrera en el ámbito del análisis de datos
 
  # PROYECTOS REALIZADOS
 
-📌 ##  ** `#0000FF` Conversión de Leads para la Escuela Online de Negocios**
+📌  **Conversión de Leads para la Escuela Online de Negocios**
 
-   # Metodo: Regresión Lineal
+   * Metodo: Regresión Lineal
 
-   # Enlace al Proyecto: [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)
+   * Enlace al Proyecto: [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)
 
 
----CONTACTEME---
+# CONTACTEME 
 
      📩 allgoher007@gmail.com 
                      
