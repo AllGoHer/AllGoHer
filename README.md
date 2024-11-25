@@ -57,6 +57,18 @@ Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de s
 
 Objetivo Profesional: Consolidar mi carrera en el ámbito del análisis de datos, utilizando mis habilidades técnicas y experiencia en administración para generar valor estratégico en las organizaciones, mejorando la toma de decisiones y potenciando la eficiencia operativa. Actualmente busco roles desafiantes en organizaciones que valoren la innovación basada en datos y la resolución creativa de problemas.
 
-📌¡contáctame en 📩 allgoher007@gmail.com 
+
+--- # PROYECTOS REALIZADOS---
+
+📌 ## `#0000FF`**Conversión de Leads para la Escuela Online de Negocios**
+
+   ### Metodo: Regresión Lineal
+
+   ### Enlace al Proyecto: [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)
+
+
+---📌#CONTACTEME---
+
+     📩 allgoher007@gmail.com 
                      
-                     www.linkedin.com/in/allan-gonzales-heredia-13a557b5/
+     www.linkedin.com/in/allan-gonzales-heredia-13a557b5/
