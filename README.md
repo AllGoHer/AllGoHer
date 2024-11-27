@@ -67,7 +67,18 @@ Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de s
  |------------|------------|------------------------|
  | Conversión de Leads para la Escuela Online de Negocios | Regresión Lineal | [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)|
  | Optimización de Conversión de Leads | Árbol de Decisión, Random Forest y Gradient Boosting | [Optimizacion](https://github.com/AllGoHer/Hiperparametros_Arbol_de_Decision_EON/blob/main/README.md) |
- | Optimiación de la Cadena de Suministro de Banano en Ecuador| Programación Lineal | [Programacion Lineal](https://github.com/AllGoHer/Python_Optimizacion_Cadena_de_Suministro/blob/main/Fincas+Bananeras.ipynb) |
+ | Optimiación de la Cadena de Suministro de Banano en Ecuador| Programación Lineal | [Programacion Lineal] (https://github.com/AllGoHer/Python_Optimizacion_Cadena_de_Suministro/blob/main/Fincas+Bananeras.ipynb) |
+ | Exportación de Vinos Chile | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Exportacion_Vinos_Chile/blob/main/Vinos%2BChilenos.ipynb) |
+ | Usos de Tarjeta de Credito | KMeans + PCA | [Click aquí](https://github.com/AllGoHer/Python_KMeans_PCA/blob/main/Implementaci%C3%B3n%20KMeans%2BPCA_Caso_Uso%20Tarjetas%20de%20Credito.ipynb) |
+ | Análisis de Clustering y perfiles de clientes de un Centro comercial | Clustering | [Click aquí](https://github.com/AllGoHer/Python_Analisis_Clusteres_02/blob/main/Analisis%20de%20Clustering%20y%20perfilacion%20de%20clientes%20con%20Python%20y%20ChatGPT.ipynb) |
+ | Análisis de una Jugueteria | Descomposición Estacional (ETE) | [Clik aquí](https://github.com/AllGoHer/Python_Descomposicion_Estacional-ETE-_Jugueteria/blob/main/Descomposicion_Estacional_Jugueteria.ipynb) |
+ |Problemas de transporte en Empresa de Bebidas Carbonatadas | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_PL_PYOMO_Transporte/blob/main/Bebidas%2BCarbonatadas%2Ben%2BPer%C3%BA.ipynb) |
+ | Maximizar Utilidad Empresa Textil | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_PL_Manufactura_Textil/blob/main/ProgramacionLineal_Manufactura_Textil.ipynb) |
+ | Minimizar los Costos de Producción Empresa Energetica | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_PL_Industria_Energetica/blob/main/PL%2Ben%2Bla%2BIndustria%2BEnerg%C3%A9tica.ipynb) |
+ | Minimizar Costos de Producción para elaboración de una Bebida nutricional | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_lineal_Industria_Alimentaria/blob/main/PL_bebida_Industria%2Bde%2BAlimentos.ipynb) |
+ | Optimización Logística para la Producción de Barras de Acero | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Produccion_-Acero/blob/main/Optimizacion_logistica_produccion_barrasdeacero.ipynb) |
+ | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
+ 
  
 
 # 📌 CONTACTEME 
