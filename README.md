@@ -67,7 +67,7 @@ Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de s
  |------------|------------|------------------------|
  | Conversión de Leads para la Escuela Online de Negocios | Regresión Lineal | [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)|
  | Optimización de Conversión de Leads | Árbol de Decisión, Random Forest y Gradient Boosting | [Optimizacion](https://github.com/AllGoHer/Hiperparametros_Arbol_de_Decision_EON/blob/main/README.md) |
- | Optimiación de la Cadena de Suministro de Banano en Ecuador| Programación Lineal | [Programacion Lineal] (https://github.com/AllGoHer/Python_Optimizacion_Cadena_de_Suministro/blob/main/Fincas+Bananeras.ipynb) |
+ | Optimiación de la Cadena de Suministro de Banano en Ecuador| Programación Lineal | [Programacion Lineal | (https://github.com/AllGoHer/Python_Optimizacion_Cadena_de_Suministro/blob/main/Fincas+Bananeras.ipynb)|
  | Exportación de Vinos Chile | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Exportacion_Vinos_Chile/blob/main/Vinos%2BChilenos.ipynb) |
  | Usos de Tarjeta de Credito | KMeans + PCA | [Click aquí](https://github.com/AllGoHer/Python_KMeans_PCA/blob/main/Implementaci%C3%B3n%20KMeans%2BPCA_Caso_Uso%20Tarjetas%20de%20Credito.ipynb) |
  | Análisis de Clustering y perfiles de clientes de un Centro comercial | Clustering | [Click aquí](https://github.com/AllGoHer/Python_Analisis_Clusteres_02/blob/main/Analisis%20de%20Clustering%20y%20perfilacion%20de%20clientes%20con%20Python%20y%20ChatGPT.ipynb) |
