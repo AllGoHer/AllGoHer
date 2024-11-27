@@ -66,7 +66,8 @@ Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de s
  |**PROYECTO**| **METODO** | **ENLACE AL PROYECTO** |
  |------------|------------|------------------------|
  | Conversión de Leads para la Escuela Online de Negocios | Regresión Lineal | [Click aquí](https://github.com/AllGoHer/RL_Conversi-n-de-Leads_Escuela_de_Negocios-/blob/main/README.md)|
-
+ | Optimiación de la Cadena de Suministro de Banano en Ecuador| Programación Lineal | [Programacion Lineal](https://github.com/AllGoHer/Python_Optimizacion_Cadena_de_Suministro/blob/main/Fincas+Bananeras.ipynb) |
+ 
 
 # 📌 CONTACTEME 
 
