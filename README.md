@@ -23,13 +23,11 @@ Hola, soy Allan Gonzales, Analista de Datos con mas de 15 años de experiencia e
 
 Competencias:
 
-•	Lenguajes y Herramientas: Python, SQL, Power BI, Excel.
+•	Lenguajes y Herramientas: Python, SQL, Power BI, Excel, BIM, DYNAMO - C3D.
 
 •	Manejo de bibliotecas: pandas, NumPy, scikit-learn (machine learning), Matplotlib, Seaborn (visualización).
-
 •	Estadística y Probabilidad: Conocimiento sólido de estadística descriptiva, inferencial y modelos predictivos.
-
-Uso de pruebas estadísticas, regresiones, correlaciones y análisis de varianza.
+   Uso de pruebas estadísticas, regresiones, correlaciones y análisis de varianza.
 
 •	Analisis de Datos: Analisis exploratorio, descriptivo y predictivo.
 
