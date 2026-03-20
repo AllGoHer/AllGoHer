@@ -68,7 +68,10 @@ Competencias:
  
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
   En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
-  |**PROYECTO**| **OBJETIVO** | **ENLACE AL PROYECTO** |
+  |**PROYECTO**| **OBJETIVO** | **HERRAMIENTAS** | **ENLACE AL PROYECTO** |
+  |------------|--------------|------------------|------------------------|
+  |Creación de Puntos Cogo | Automatizar la Importar puntos desde una tabla de excel para creación de puntos Cogo | Dynamo, Civil 3D | CLICK AQUI |
+  | Creación de Surface | Automatizar la creación de Superficies 3D | Civil 3D y Dynamo | CLICK AQUI |
 
 # 📌 CONTACTEME 
 
