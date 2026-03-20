@@ -67,7 +67,8 @@ Competencias:
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
  
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
-  En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.  
+  En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
+  |**PROYECTO**| **OBJETIVO** | **ENLACE AL PROYECTO** |
 
 # 📌 CONTACTEME 
 
