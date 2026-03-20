@@ -28,27 +28,16 @@ Competencias:
 •	Manejo de bibliotecas: pandas, NumPy, scikit-learn (machine learning), Matplotlib, Seaborn (visualización).
 •	Estadística y Probabilidad: Conocimiento sólido de estadística descriptiva, inferencial y modelos predictivos.
    Uso de pruebas estadísticas, regresiones, correlaciones y análisis de varianza.
-
 •	Analisis de Datos: Analisis exploratorio, descriptivo y predictivo.
-
-•	Manipulación de Datos (ETL): 
-
-Limpieza de datos: eliminación de duplicados, manejo de valores faltantes, corrección de errores tipográficos, normalización de formatos y estandarización de datos.
-
-Transformación de Datos: Normalización y escalamiento, creación de valores derivados, conversión de formatos categóricos y agregación de datos.
-
-Filtrado y selección: Filtrado condicional, selección de variables relevantes y reducción de dimensionalidad (PCA).
-
-Unión de datos: combinaciones (joins) y concatenación de datasets.
-
-Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de series temporales.
-
+•	Manipulación de Datos (ETL):
+   Limpieza de datos: eliminación de duplicados, manejo de valores faltantes, corrección de errores tipográficos, normalización de formatos y estandarización de datos.
+   Transformación de Datos: Normalización y escalamiento, creación de valores derivados, conversión de formatos categóricos y agregación de datos.
+   Filtrado y selección: Filtrado condicional, selección de variables relevantes y reducción de dimensionalidad (PCA).
+   Unión de datos: combinaciones (joins) y concatenación de datasets.
+   Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de series temporales.
 •	Visualización de Datos: Creación de Dashboard y reportes interactivos (KPI´s) para la toma de decisiones.
-
 •	Ciencias de Datos y Machine Learning: Modelado predictivo, algoritmo de clustering, regresión y clasificación.
-
 •	Gestión de Bases de Datos: Consulta, limpieza y transformación de datos en SQL.
-
 
 •	Blandas: Liderazgo, resolución de problemas, trabajo en equipo, pensamiento analítico, gestión del tiempo y comunicación efectiva.
 
@@ -77,7 +66,8 @@ Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de s
  | Optimización Logística para la Producción de Barras de Acero | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Produccion_-Acero/blob/main/Optimizacion_logistica_produccion_barrasdeacero.ipynb) |
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
  
- 
+# PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
+  En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.  
 
 # 📌 CONTACTEME 
 
