@@ -65,7 +65,14 @@ Competencias:
  | Minimizar Costos de Producción para elaboración de una Bebida nutricional | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_lineal_Industria_Alimentaria/blob/main/PL_bebida_Industria%2Bde%2BAlimentos.ipynb) |
  | Optimización Logística para la Producción de Barras de Acero | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Produccion_-Acero/blob/main/Optimizacion_logistica_produccion_barrasdeacero.ipynb) |
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
- 
+
+# PROYECTOS DE AUTOMATIZACIÓN
+
+En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
+
+|**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
+|------------|-----------------------|------------------------|
+| Asistente de Voz | Steramlit, Langchain y Open AI | [Click Aquí]() |
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
   En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
   |**PROYECTO**| **OBJETIVO** | **HERRAMIENTAS** | **ENLACE AL PROYECTO** |
