@@ -72,7 +72,7 @@ En el siguiente cuadro se presenta los proyectos realizados con sus respectivos 
 
 |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
 |------------|-----------------------|------------------------|
-| Asistente de Voz | Steramlit, Langchain y Open AI | [Click Aquí]() |
+| Asistente de Voz | Steramlit, Langchain y Open AI | [Click Aquí](https://github.com/AllGoHer/Asistente-de-Voz) |
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
   En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
   |**PROYECTO**| **OBJETIVO** | **HERRAMIENTAS** | **ENLACE AL PROYECTO** |
