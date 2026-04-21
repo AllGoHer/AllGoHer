@@ -46,7 +46,7 @@ Competencias:
 🎯 Objetivo Profesional: Consolidar mi carrera en el ámbito del análisis de datos, utilizando mis habilidades técnicas y experiencia en administración para generar valor estratégico en las organizaciones, mejorando la toma de decisiones y potenciando la eficiencia operativa. Actualmente busco roles desafiantes en organizaciones que valoren la innovación basada en datos y la resolución creativa de problemas.
 
 
- #  📊 PROYECTOS 
+ #  📊 PROYECTOS BUSINESS ANALYTICS
 
  En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
 
@@ -66,6 +66,26 @@ Competencias:
  | Optimización Logística para la Producción de Barras de Acero | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Produccion_-Acero/blob/main/Optimizacion_logistica_produccion_barrasdeacero.ipynb) |
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
 
+
+ # PROYECTOS INGENIERIA DE DATOS
+ A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
+
+ ![image](<img width="244" height="103" alt="image" src="https://github.com/user-attachments/assets/3f2e8f2b-6561-4ad7-9637-6d278e03ce2b" />
+ )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+ ![image]( )
+
+ |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
+ |------------|-----------------------|------------------------|
+ | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí]() |
+
 # PROYECTOS DE AUTOMATIZACIÓN
 
 En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
@@ -76,6 +96,8 @@ En el siguiente cuadro se presenta los proyectos realizados con sus respectivos 
 | Renombrar Archivos | Python | [Click Aquí](https://github.com/AllGoHer/Renombrar-Carpetas/blob/main/README.md) |
 | Automatización documentos Word | Python, panda, datetime, DocxTemplate | [Click Aquí](https://github.com/AllGoHer/Automatizaci-n-Documentos-Word) |
 | Generador de PDF | Python, Streamlit, FPDF | [Click Aquí](https://github.com/AllGoHer/Automatizaci-n-PDF/edit/main/README.md) |
+
+
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
   En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
   |**PROYECTO**| **OBJETIVO** | **HERRAMIENTAS** | **ENLACE AL PROYECTO** |
