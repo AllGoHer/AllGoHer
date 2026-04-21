@@ -70,7 +70,7 @@ Competencias:
  # PROYECTOS INGENIERIA DE DATOS
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
 
- ![image](<https://github.com/user-attachments/assets/df8de7ab-9f93-4e29-9cd7-edcf58997a5c)
+ ![image](https://github.com/user-attachments/assets/df8de7ab-9f93-4e29-9cd7-edcf58997a5c)
  ![image]( )
  ![image]( )
  ![image]( )
