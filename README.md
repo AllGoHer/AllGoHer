@@ -71,15 +71,28 @@ Competencias:
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
 
  ![image](https://github.com/user-attachments/assets/4360a69a-3f54-482c-9a37-046dc4313603)
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
- ![image]( )
+ ![image](https://github.com/user-attachments/assets/0898f7fe-253a-4093-a550-036f4960a293)
+ ![image](https://github.com/user-attachments/assets/2ef0b4e1-9e5c-4d78-8a21-a179ab15e7dd)
+ ![image](https://github.com/user-attachments/assets/4033aa50-2f0a-4311-9f32-588a815b127b)
+ ![image](https://github.com/user-attachments/assets/4fbd3609-dd7a-4a8f-904a-b665b9befc06)
+ ![image](https://github.com/user-attachments/assets/73915550-2cd2-4608-87b3-b3fc5a46ba20)
+ ![image](https://github.com/user-attachments/assets/0aca225c-f924-49d2-aaf3-d9e7eeb14133)
+ ![image](https://github.com/user-attachments/assets/678510d5-f116-4c14-99b5-42c945d2f682)
+ ![image](https://github.com/user-attachments/assets/c63bd37c-37cd-43fa-a729-7209b0db9838)
+ ![image](https://github.com/user-attachments/assets/4526acfe-8006-44fe-b96f-a14dab62c7bb)
+ ![image](https://github.com/user-attachments/assets/454f34c7-9372-4d31-b7a2-ffad73ea03c4)
+ ![image](https://github.com/user-attachments/assets/db3bbac2-464d-4314-aaf9-641868f14394)
+ ![image](https://github.com/user-attachments/assets/5b5a61a5-6656-426a-891a-cf413c264a5f)
+ ![image](https://github.com/user-attachments/assets/e06ad88f-1940-4e3b-9da8-34f3dc3e7c05)
+ ![image](https://github.com/user-attachments/assets/d310c975-b42a-4b04-a989-c27ed7a8579a)
+ ![image](https://github.com/user-attachments/assets/7a1f3384-a3af-4a45-bb62-edc67df3b538)
+ ![image](https://github.com/user-attachments/assets/cd07208c-7339-49c3-88e8-42f75d3df6b7)
+ ![image](https://github.com/user-attachments/assets/92f7a826-124f-4ea9-9f10-3f8044c73967)
+ ![image](https://github.com/user-attachments/assets/044613da-1567-4f52-bdfe-71be87a74d3f)
+ ![image](https://github.com/user-attachments/assets/402989fd-f323-438d-ab3d-54659d0fc6f5)
+ ![image](https://github.com/user-attachments/assets/2e90743f-78d7-4d11-baf7-55de3441c44c)
+ ![image](https://github.com/user-attachments/assets/c32e550d-14a2-4f75-9425-885aec91a000)
+ 
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
