@@ -67,12 +67,13 @@ Competencias:
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
 
 
+
  # PROYECTOS INGENIERIA DE DATOS
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
 
  ![image](https://github.com/user-attachments/assets/4360a69a-3f54-482c-9a37-046dc4313603)
  ![image](https://github.com/user-attachments/assets/0898f7fe-253a-4093-a550-036f4960a293)
- ![image](https://github.com/user-attachments/assets/2ef0b4e1-9e5c-4d78-8a21-a179ab15e7dd)
+ ![image](https://github.com/user-attachments/assets/a30761db-2f29-4754-b2cf-98015b9e2962)
  ![image](https://github.com/user-attachments/assets/4033aa50-2f0a-4311-9f32-588a815b127b)
  ![image](https://github.com/user-attachments/assets/4fbd3609-dd7a-4a8f-904a-b665b9befc06)
  ![image](https://github.com/user-attachments/assets/73915550-2cd2-4608-87b3-b3fc5a46ba20)
