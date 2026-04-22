@@ -99,7 +99,7 @@ Competencias:
  |------------|-----------------------|------------------------|
  | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
  | Crear un Dockerfile | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-un-Dockerfile/blob/main/README.md) |
- | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí]() |
+ | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
 # PROYECTOS DE AUTOMATIZACIÓN
 
 En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
