@@ -97,7 +97,7 @@ Competencias:
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
- | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí]() |
+ | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
 
 # PROYECTOS DE AUTOMATIZACIÓN
 
