@@ -100,6 +100,12 @@ Competencias:
  | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
  | Crear un Dockerfile | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-un-Dockerfile/blob/main/README.md) |
  | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
+ | Conexión de Python a base de datos SQLite | Python y SQLite | [Click Aquí]() |
+ | Conexión de Python a base de datos OracleSQL | Python y OracleSQL | [Click Aquí]() |
+ | Conexión de Python a base de datos PostgreSQL | Python y PostgreSQL | [Click Aquí]() |
+ | Conexión de Python a base de datos MySQL | Python y MySQL | [Click Aquí]() |
+
+ 
 # PROYECTOS DE AUTOMATIZACIÓN
 
 En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
