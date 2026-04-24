@@ -101,7 +101,7 @@ Competencias:
  | Crear un Dockerfile | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-un-Dockerfile/blob/main/README.md) |
  | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
  | Conexión de Python a base de datos SQLite | Python y SQLite | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-base-de-datos-SQLite/blob/main/README.md) |
- | Conexión de Python a base de datos OracleSQL | Python y OracleSQL | [Click Aquí]() |
+ | Conexión de Python a base de datos OracleSQL | Python y OracleSQL | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-bases-de-datos-Oracle) |
  | Conexión de Python a base de datos PostgreSQL | Python y PostgreSQL | [Click Aquí]() |
  | Conexión de Python a base de datos MySQL | Python y MySQL | [Click Aquí]() |
 
