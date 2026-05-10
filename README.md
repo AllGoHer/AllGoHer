@@ -106,7 +106,7 @@ Competencias:
  | Conexión de Python a base de datos MySQL | Python y MySQL | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-base-de-datos-MySQL) |
  | Python para ingenieria de Datos | Python | [Click Aquí](https://github.com/AllGoHer/Python-for-Data-Enginners) |
  | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
- | Diseño de Bases de Datos | SQL | [Click Aquí]() |
+ | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
  
 # PROYECTOS DE AUTOMATIZACIÓN
 
