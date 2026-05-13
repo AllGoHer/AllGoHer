@@ -108,6 +108,9 @@ Competencias:
  | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
  | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
+ | SQL Moderno | SQL | [Click Aquí]() |
+
+ 
 # PROYECTOS DE AUTOMATIZACIÓN
 
 En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
