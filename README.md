@@ -97,6 +97,7 @@ Competencias:
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
+ | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí]() |
  | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
  | Crear un Dockerfile | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-un-Dockerfile/blob/main/README.md) |
  | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
@@ -109,7 +110,7 @@ Competencias:
  | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
  | SQL Moderno | SQL | [Click Aquí](https://github.com/AllGoHer/SQL-Moderno) |
-
+ 
  
 # PROYECTOS DE AUTOMATIZACIÓN
 
