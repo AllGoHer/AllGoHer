@@ -111,7 +111,7 @@ Competencias:
  | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
  | SQL Moderno | SQL | [Click Aquí](https://github.com/AllGoHer/SQL-Moderno) |
- | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí]() |
+ | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí](https://github.com/AllGoHer/SnowFlake-para-Ingenieria-de-datos) |
  
  
  
