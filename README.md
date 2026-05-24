@@ -97,6 +97,7 @@ Competencias:
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
+ | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí]() |
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
  | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
