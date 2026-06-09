@@ -102,20 +102,27 @@ Competencias:
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
  | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
+ | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
+ | PySpark Streaming | Apache Spark, Databricks, Python, SQL | [Click Aquí]() |
  | Airflow for DE| Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Airflow-for-Data-Engineer/tree/main) |
+ | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
+ | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí](https://github.com/AllGoHer/SnowFlake-para-Ingenieria-de-datos) |
+ | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
+ | Python para ingenieria de Datos | Python | [Click Aquí](https://github.com/AllGoHer/Python-for-Data-Enginners) |
+ | SQL Moderno | SQL | [Click Aquí](https://github.com/AllGoHer/SQL-Moderno) |
+ | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
  | Crear una imagen a partir de un contenedor | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-una-Imagen-a-partir-de-un-Contenedor) |
  | Crear un Dockerfile | Docker y Linux | [Click Aquí](https://github.com/AllGoHer/Crear-un-Dockerfile/blob/main/README.md) |
- | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
  | Conexión de Python a base de datos SQLite | Python y SQLite | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-base-de-datos-SQLite/blob/main/README.md) |
  | Conexión de Python a base de datos OracleSQL | Python y OracleSQL | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-bases-de-datos-Oracle) |
  | Conexión de Python a base de datos PostgreSQL | Python y PostgreSQL | [Click Aquí](https://github.com/AllGoHer/CONEXI-N-PYTHON-CON-BASE-DE-DATOS-POSTGRESQL) |
  | Conexión de Python a base de datos MySQL | Python y MySQL | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-base-de-datos-MySQL) |
- | Python para ingenieria de Datos | Python | [Click Aquí](https://github.com/AllGoHer/Python-for-Data-Enginners) |
- | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
- | Diseño de Bases de Datos | SQL | [Click Aquí](https://github.com/AllGoHer/Diseno-de-Bases-de-Datos) |
- | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
- | SQL Moderno | SQL | [Click Aquí](https://github.com/AllGoHer/SQL-Moderno) |
- | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí](https://github.com/AllGoHer/SnowFlake-para-Ingenieria-de-datos) |
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
