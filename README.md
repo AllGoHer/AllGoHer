@@ -98,6 +98,10 @@ Competencias:
 
 
 
+
+
+
+
  #  📊 PROYECTOS BUSINESS ANALYTICS
 
  En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
