@@ -74,6 +74,7 @@ Competencias:
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
+ | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí]() |
  | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) | 
  | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
