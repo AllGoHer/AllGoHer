@@ -82,6 +82,7 @@ Competencias:
  | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
  | PySpark Streaming | Apache Spark, Databricks, Python, SQL | [Click Aquí](https://github.com/AllGoHer/PySpark-Streaming) |
+ | PySpark Real-Time Scenarios: Incremental Loads, Upserts & Data Warehousing | Pyspark & Databricks - Delta lake | [Click Aquí]() |
  | Airflow for DE| Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Airflow-for-Data-Engineer/tree/main) |
  | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
  | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí](https://github.com/AllGoHer/SnowFlake-para-Ingenieria-de-datos) |
