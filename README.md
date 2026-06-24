@@ -19,29 +19,41 @@
 
 # 👔 Transformando Datos en Tiempo Real en Decisiones de Negocio
 
-🎓 Ingeniero Empresarial | 📊 Data Engineer (Streaming Focus) | 🚀 Project Manager
+🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
-Soy un ingeniero de datos especializado en arquitecturas de procesamiento continuo (Streaming). Mi valor diferencial no es solo escribir código PySpark o configurar Kafka, sino traducir los objetivos del negocio en arquitecturas de datos escalables, confiables y en tiempo real, aplicando mejores prácticas de gestión de proyectos de extremo a extremo.
-
-Creo firmemente que un pipeline de datos no tiene valor si el negocio no puede confiar en él o entenderlo.
-
-🚀 ¿Cómo puedo ayudar a tu equipo?
-
-Diseño de Arquitecturas Lakehouse: Construcción de pipelines near-real-time y streaming (Kafka + Flink/Spark) integrados con plataformas Cloud modernas.
-
-Gobernanza y Calidad de Datos: Implementación de frameworks de datos limpios usando DBT y Silver/Gold layers, reduciendo el "time-to-insight" para analistas y ejecutivos.
-
-Liderazgo Técnico de Proyectos: Desde la ideación hasta la puesta en producción (Airflow, Docker), asegurando entregas predecibles y documentadas.
+👋 Hola, soy Allan Gonzales
 
 
-🛠️ Arsenal Técnico
-Ingesta & Streaming en Tiempo RealApache Kafka • Apache Flink • Apache Spark (Structured Streaming)
+Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en arquitecturas modernas de procesamiento continuo (Streaming) y análisis en tiempo real.
 
-Procesamiento & TransformaciónApache Spark • DBT • SQL Avanzado • Python
+Mi enfoque está en el diseño de sistemas que procesan millones de eventos por segundo con latencia de milisegundos, garantizando la tolerancia a fallos y la idempotencia. Mi background en ingeniería empresarial y gestión de proyectos me permite diseñar sistemas que no solo escalan técnicamente, sino que entregan valor medible al negocio desde el día uno.
 
-Plataformas Cloud & AlmacenamientoDatabricks • Microsoft Fabric • Snowflake • Hive Metastore
 
-Orquestación, Infraestructura & DevOpsApache Airflow • Docker • Git • Gestión de Proyectos (Agile/Waterfall)
+***Creo firmemente que un pipeline de datos no tiene valor si el negocio no puede confiar en él o entenderlo.***
+
+
+
+**🚀 ¿Cómo puedo ayudar a tu equipo?**
+
+•	Diseño de Arquitecturas Lakehouse: Construcción de pipelines near-real-time y streaming (Kafka + Flink/Spark) integrados con plataformas Cloud modernas.
+
+•	Gobernanza y Calidad de Datos: Implementación de frameworks de datos limpios usando DBT y Silver/Gold layers, reduciendo el "time-to-insight" para analistas y ejecutivos.
+
+•	Liderazgo Técnico de Proyectos: Desde la ideación hasta la puesta en producción (Airflow, Docker), asegurando entregas predecibles y documentadas.
+
+•	Optimizar costos y rendimiento en la nube.
+
+•	Diseñar soluciones que crecen con el negocio.
+
+
+
+
+
+
+
+
+
+
 
 ### 📁 Caso de Estudio Destacado
 
