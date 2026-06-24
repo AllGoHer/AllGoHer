@@ -74,7 +74,7 @@ Competencias:
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
- | Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
+ | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
  | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
  | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) | 
  | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
