@@ -11,33 +11,58 @@
 ![image](https://github.com/user-attachments/assets/763e0e40-fa39-46a9-aa15-fa897689f8d1)
 ![image](https://github.com/user-attachments/assets/d91d74d2-ba42-4283-8399-5f8779cefbb6)
 ![image](https://github.com/user-attachments/assets/5de64582-e735-4fa0-a0ac-61e7e5d46e14)
-![image](https://github.com/user-attachments/assets/ae54705d-ab7d-4ec6-9a4b-77daa97d7a2b)
+![image](https://github.com/user-attachments/assets/ae54705d-ab7d-4ec6-9a4b-77daa97d7a2b) 
 ![image](https://github.com/user-attachments/assets/7f267b8b-fa9a-403f-bfbb-2ee9bd1a41c2)
 ![image](https://github.com/user-attachments/assets/61465df8-1d72-4062-95c3-e3831d5d99f6)
 ![image](https://github.com/user-attachments/assets/bfce5622-0786-45a0-8b5b-fb278b729c24)
 ![image](https://github.com/user-attachments/assets/9533d6c9-9cdd-4a50-9cf7-03de746114b5)
 
+# 👔 Transformando Datos en Tiempo Real en Decisiones de Negocio
 
-# 
-Hola, soy Allan Gonzales, Analista de Datos con mas de 15 años de experiencia en administración de proyectos de ingeniería y construcción. Durante los últimos años he complementado mi formación de Ingeniería Empresarial e Innovación, con capacitaciones en Analisis de datos, Analítica de negocio y aprendizaje automático, lo cual me ha permitido tener una visión más clara sobre administración y gestión de proyectos, control de los procesos operativos y tomar decisiones basadas en datos y en tiempo real que optimicen el rendimiento organizacional.
+🎓 Ingeniero Empresarial | 📊 Data Engineer (Streaming Focus) | 🚀 Project Manager
 
-Competencias:
+Soy un ingeniero de datos especializado en arquitecturas de procesamiento continuo (Streaming). Mi valor diferencial no es solo escribir código PySpark o configurar Kafka, sino traducir los objetivos del negocio en arquitecturas de datos escalables, confiables y en tiempo real, aplicando mejores prácticas de gestión de proyectos de extremo a extremo.
 
-•	Lenguajes y Herramientas: Python, SQL, Power BI, Excel, BIM, DYNAMO - C3D.
+Creo firmemente que un pipeline de datos no tiene valor si el negocio no puede confiar en él o entenderlo.
 
-•	Manejo de bibliotecas: pandas, NumPy, scikit-learn (machine learning), Matplotlib, Seaborn (visualización).
-•	Estadística y Probabilidad: Conocimiento sólido de estadística descriptiva, inferencial y modelos predictivos.
-   Uso de pruebas estadísticas, regresiones, correlaciones y análisis de varianza.
-•	Analisis de Datos: Analisis exploratorio, descriptivo y predictivo.
-•	Manipulación de Datos (ETL):
-   Limpieza de datos: eliminación de duplicados, manejo de valores faltantes, corrección de errores tipográficos, normalización de formatos y estandarización de datos.
-   Transformación de Datos: Normalización y escalamiento, creación de valores derivados, conversión de formatos categóricos y agregación de datos.
-   Filtrado y selección: Filtrado condicional, selección de variables relevantes y reducción de dimensionalidad (PCA).
-   Unión de datos: combinaciones (joins) y concatenación de datasets.
-   Agrupación y reformateo: agrupación y resumen de datos, pivotado y manejo de series temporales.
-•	Visualización de Datos: Creación de Dashboard y reportes interactivos (KPI´s) para la toma de decisiones.
-•	Ciencias de Datos y Machine Learning: Modelado predictivo, algoritmo de clustering, regresión y clasificación.
-•	Gestión de Bases de Datos: Consulta, limpieza y transformación de datos en SQL.
+🚀 ¿Cómo puedo ayudar a tu equipo?
+
+Diseño de Arquitecturas Lakehouse: Construcción de pipelines near-real-time y streaming (Kafka + Flink/Spark) integrados con plataformas Cloud modernas.
+
+Gobernanza y Calidad de Datos: Implementación de frameworks de datos limpios usando DBT y Silver/Gold layers, reduciendo el "time-to-insight" para analistas y ejecutivos.
+
+Liderazgo Técnico de Proyectos: Desde la ideación hasta la puesta en producción (Airflow, Docker), asegurando entregas predecibles y documentadas.
+
+
+🛠️ Arsenal Técnico
+Ingesta & Streaming en Tiempo RealApache Kafka • Apache Flink • Apache Spark (Structured Streaming)
+
+Procesamiento & TransformaciónApache Spark • DBT • SQL Avanzado • Python
+
+Plataformas Cloud & AlmacenamientoDatabricks • Microsoft Fabric • Snowflake • Hive Metastore
+
+Orquestación, Infraestructura & DevOpsApache Airflow • Docker • Git • Gestión de Proyectos (Agile/Waterfall)
+
+### 📁 Caso de Estudio Destacado
+
+**🚦 Arquitectura Lakehouse de Tráfico en Tiempo Real**  *Un proyecto de nivel producción que demuestra manejo de datos caóticos y modelado analítico.*
+
+Problema: Ingesta de datos de sensores con un 30% de anomalías (JSONs rotos, datos fuera de tiempo, tipados incorrectos).
+
+Solución: Diseño e implementación completa de la arquitectura Medallion (Bronze/Silver/Gold).
+
+Habilidades aplicadas: Watermarking, deduplicación en streaming, Chaos Engineering, modelado Star Schema y exposición a Power BI vía Hive Metastore.
+
+Stack: Kafka, PySpark, Delta Lake, Docker, Power BI.
+
+🔗 Ver el repositorio del proyecto aquí (Cambia el # por el link a tu proyecto)
+
+📫 Conectemos
+
+Si buscas un Data Engineer que hable el idioma del negocio tanto como el de los datos, hablemos.
+
+💼 LinkedIn
+📧 Tu Email
 
 •	Blandas: Liderazgo, resolución de problemas, trabajo en equipo, pensamiento analítico, gestión del tiempo y comunicación efectiva.
 
