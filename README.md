@@ -1,27 +1,12 @@
 ![image](https://github.com/user-attachments/assets/0d55bb8b-7895-4664-8491-e278c955d7e0)
 
-![image](https://github.com/user-attachments/assets/7fffb0fc-a787-4bb1-987a-f22ef56dffdf)
-![image](https://github.com/user-attachments/assets/4a9b2bae-537d-47a6-8f65-fc9d6ce06616)
-![image](https://github.com/user-attachments/assets/19a9ea8a-c3e5-43cb-a5a8-9fe3abd86335)
-![image](https://github.com/user-attachments/assets/953d686f-8d31-46fd-ad4b-12b37ab8ec32)
-![image](https://github.com/user-attachments/assets/c1425e10-acb3-4dc4-adf2-60ebb8c9a8b6)
-![image](https://github.com/user-attachments/assets/08e41131-2de6-41f8-83eb-5bf86c2582d9)
-![image](https://github.com/user-attachments/assets/1311ef82-cf93-404d-950c-60147fc20948)
-![image](https://github.com/user-attachments/assets/df0029f9-55f7-4723-a76d-acc0c421712c)
-![image](https://github.com/user-attachments/assets/763e0e40-fa39-46a9-aa15-fa897689f8d1)
-![image](https://github.com/user-attachments/assets/d91d74d2-ba42-4283-8399-5f8779cefbb6)
-![image](https://github.com/user-attachments/assets/5de64582-e735-4fa0-a0ac-61e7e5d46e14)
-![image](https://github.com/user-attachments/assets/ae54705d-ab7d-4ec6-9a4b-77daa97d7a2b) 
-![image](https://github.com/user-attachments/assets/7f267b8b-fa9a-403f-bfbb-2ee9bd1a41c2)
-![image](https://github.com/user-attachments/assets/61465df8-1d72-4062-95c3-e3831d5d99f6)
-![image](https://github.com/user-attachments/assets/bfce5622-0786-45a0-8b5b-fb278b729c24)
-![image](https://github.com/user-attachments/assets/9533d6c9-9cdd-4a50-9cf7-03de746114b5)
 
-# 👔 Transformando Datos en Tiempo Real en Decisiones de Negocio
+
+# ![Image](https://github.com/user-attachments/assets/7298448c-6efd-4ee5-92c8-67f831c14360) Transformando Datos en Tiempo Real en Decisiones de Negocio
 
 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
-👋 Hola, soy Allan Gonzales
+**👋 Hola, soy Allan Gonzales**
 
 
 Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en arquitecturas modernas de procesamiento continuo (Streaming) y análisis en tiempo real.
@@ -29,9 +14,10 @@ Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en a
 Mi enfoque está en el diseño de sistemas que procesan millones de eventos por segundo con latencia de milisegundos, garantizando la tolerancia a fallos y la idempotencia. Mi background en ingeniería empresarial y gestión de proyectos me permite diseñar sistemas que no solo escalan técnicamente, sino que entregan valor medible al negocio desde el día uno.
 
 
-***Creo firmemente que un pipeline de datos no tiene valor si el negocio no puede confiar en él o entenderlo.***
+***"La tecnología mueve datos; la confianza en los datos mueve negocios".***
 
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **🚀 ¿Cómo puedo ayudar a tu equipo?**
 
@@ -45,6 +31,16 @@ Mi enfoque está en el diseño de sistemas que procesan millones de eventos por 
 
 •	Diseñar soluciones que crecen con el negocio.
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🛠️ Arsenal Técnico
+
+
+| Ingesta & Streaming en Tiempo Real | Apache Kafka • Apache Flink • Apache Spark (Structured Streaming) |
+| Procesamiento & Transformación | Apache Spark • DBT • SQL Avanzado • Python |
+| Plataformas Cloud & Almacenamiento | Databricks • Microsoft Fabric • Snowflake • Hive Metastore * Delta Lake |
+| Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux * Kubernet * Terraform * Gestión de Proyectos (Agile/Waterfall) |
+| Análisis | SQL, Power BI, Data Modeling, Star Schema, SCD Type 2 |
 
 
 
