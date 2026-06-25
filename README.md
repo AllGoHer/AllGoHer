@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 🛠️ Arsenal Técnico
 
-| Proceso | Herraminetas |
+| Procesos | Herramientas |
 |---------|--------------|
 | Ingesta & Streaming en Tiempo Real | Apache Kafka • Apache Flink • Apache Spark (Structured Streaming) |
 | Procesamiento & Transformación | Apache Spark • DBT • SQL Avanzado • Python |
