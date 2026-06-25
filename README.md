@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 
-**👋 Hola, soy Allan Gonzales**
+### 👋 Hola, soy Allan Gonzales**
 
 
 
@@ -38,7 +38,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Arsenal Técnico
+#### 🛠️ Arsenal Técnico
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 | Procesos | Herramientas |
 |---------|--------------|
@@ -50,6 +51,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📁 Caso de Estudio Destacado
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **🚦 Arquitectura Lakehouse de Tráfico en Tiempo Real**  *Un proyecto de nivel producción que demuestra manejo de datos caóticos y modelado analítico.*
 
@@ -113,13 +115,9 @@ ________________________________________________________________________________
  | Conexión de Python a base de datos MySQL | Python y MySQL | [Click Aquí](https://github.com/AllGoHer/Conexi-n-de-Python-a-base-de-datos-MySQL) |
  
 
-
-
-
-
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
  #  📊 PROYECTOS BUSINESS ANALYTICS
+ ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
  En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
 
@@ -139,12 +137,10 @@ ________________________________________________________________________________
  | Optimización Logística para la Producción de Barras de Acero | Programación Lineal | [Click aquí](https://github.com/AllGoHer/Python_Programacion_Lineal_Produccion_-Acero/blob/main/Optimizacion_logistica_produccion_barrasdeacero.ipynb) |
  | Peliculas Taquilleras | ETL y Programación Lineal | [Click aquí](https://github.com/AllGoHer/Limpieza-de-datos-y-Regresi-n-Lineal-/blob/main/README.md) |
 
-
-
-
  
- 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
  # PROYECTOS DE AUTOMATIZACIÓN
+ __________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 En el siguiente cuadro se presenta los proyectos realizados con sus respectivos enlaces donde se explica a detalle cada proyecto y sus objetivos; asi como, el archivo de codigo (Python) de desarrollo paso a paso. 
 
@@ -155,15 +151,19 @@ En el siguiente cuadro se presenta los proyectos realizados con sus respectivos 
 | Automatización documentos Word | Python, panda, datetime, DocxTemplate | [Click Aquí](https://github.com/AllGoHer/Automatizaci-n-Documentos-Word) |
 | Generador de PDF | Python, Streamlit, FPDF | [Click Aquí](https://github.com/AllGoHer/Automatizaci-n-PDF/edit/main/README.md) |
 
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # PROYECTOS AUTOMATIZACION BIM INFRAESTRUCTURA VIAL
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
   En el siguiente cuadro se presentan proyectos de automatizacion de infraestructura vial, realizados con la herramienta DYNAMO de Civil 3D. En el cual se explica a detalle cada proyecto y sus objetivos; asi como también, los archivos de desarrollo del caso.
   |**PROYECTO**| **OBJETIVO** | **HERRAMIENTAS** | **ENLACE AL PROYECTO** |
   |------------|--------------|------------------|------------------------|
   |Creación de Puntos Cogo | Automatizar la Importar puntos desde una tabla de excel para creación de puntos Cogo | Dynamo, Civil 3D | CLICK AQUI |
   | Creación de Surface | Automatizar la creación de Superficies 3D | Civil 3D y Dynamo | CLICK AQUI |
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 📌 CONTACTEME 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
      📩 allgoher007@gmail.com 
                      
