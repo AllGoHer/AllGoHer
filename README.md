@@ -2,17 +2,21 @@
 
 
 
-# ![Image](https://github.com/user-attachments/assets/7298448c-6efd-4ee5-92c8-67f831c14360) Transformando Datos en Tiempo Real en Decisiones de Negocio
+## ![Image](https://github.com/user-attachments/assets/7298448c-6efd-4ee5-92c8-67f831c14360) Transformando Datos en Tiempo Real en Decisiones de Negocio
 
 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
+
+
 **👋 Hola, soy Allan Gonzales**
+
 
 
 Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en arquitecturas modernas de procesamiento continuo (Streaming) y análisis en tiempo real.
 
 Mi enfoque está en el diseño de sistemas que procesan millones de eventos por segundo con latencia de milisegundos, garantizando la tolerancia a fallos y la idempotencia. Mi background en ingeniería empresarial y gestión de proyectos me permite diseñar sistemas que no solo escalan técnicamente, sino que entregan valor medible al negocio desde el día uno.
 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ***"La tecnología mueve datos; la confianza en los datos mueve negocios".***
 
@@ -35,22 +39,15 @@ ________________________________________________________________________________
 
 🛠️ Arsenal Técnico
 
-
+| Proceso | Herraminetas |
+|---------|--------------|
 | Ingesta & Streaming en Tiempo Real | Apache Kafka • Apache Flink • Apache Spark (Structured Streaming) |
 | Procesamiento & Transformación | Apache Spark • DBT • SQL Avanzado • Python |
 | Plataformas Cloud & Almacenamiento | Databricks • Microsoft Fabric • Snowflake • Hive Metastore * Delta Lake |
 | Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux * Kubernet * Terraform * Gestión de Proyectos (Agile/Waterfall) |
 | Análisis | SQL, Power BI, Data Modeling, Star Schema, SCD Type 2 |
 
-
-
-
-
-
-
-
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📁 Caso de Estudio Destacado
 
 **🚦 Arquitectura Lakehouse de Tráfico en Tiempo Real**  *Un proyecto de nivel producción que demuestra manejo de datos caóticos y modelado analítico.*
@@ -63,20 +60,19 @@ Habilidades aplicadas: Watermarking, deduplicación en streaming, Chaos Engineer
 
 Stack: Kafka, PySpark, Delta Lake, Docker, Power BI.
 
-🔗 Ver el repositorio del proyecto aquí (Cambia el # por el link a tu proyecto)
+🔗 Ver el repositorio del proyecto aquí ([Click Aquí - Análisis de Tráfico en Tiempo Real](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main))
 
-📫 Conectemos
 
-Si buscas un Data Engineer que hable el idioma del negocio tanto como el de los datos, hablemos.
+__________________________________________________________________________________________________________________________________________________________________________
+
+**📫 Conectemos**
+___________________________________________________________________________________________________________________________________________________________________________
+
+***"Si buscas un Data Engineer que hable el idioma del negocio tanto como el de los datos, hablemos"***.
 
 💼 LinkedIn
-📧 Tu Email
+📧 allgoher007@gmail.com
 
-•	Blandas: Liderazgo, resolución de problemas, trabajo en equipo, pensamiento analítico, gestión del tiempo y comunicación efectiva.
-
-
-
-🎯 Objetivo Profesional: Consolidar mi carrera en el ámbito del análisis de datos, utilizando mis habilidades técnicas y experiencia en administración para generar valor estratégico en las organizaciones, mejorando la toma de decisiones y potenciando la eficiencia operativa. Actualmente busco roles desafiantes en organizaciones que valoren la innovación basada en datos y la resolución creativa de problemas.
 
  # PROYECTOS INGENIERIA DE DATOS
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
