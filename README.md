@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # Transformando Datos en Tiempo Real en Decisiones de Negocio 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
+### 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
 
 
