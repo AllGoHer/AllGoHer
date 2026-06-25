@@ -18,10 +18,7 @@ Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en a
 Mi enfoque está en el diseño de sistemas que procesan millones de eventos por segundo con latencia de milisegundos, garantizando la tolerancia a fallos y la idempotencia. Mi background en ingeniería empresarial y gestión de proyectos me permite diseñar sistemas que no solo escalan técnicamente, sino que entregan valor medible al negocio desde el día uno.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-                                                     ***"La tecnología mueve datos; la confianza en los datos mueve negocios".***
-
-
+  ***"La tecnología mueve datos; la confianza en los datos mueve negocios".***
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **🚀 ¿Cómo puedo ayudar a tu equipo?**
