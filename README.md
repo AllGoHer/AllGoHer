@@ -2,7 +2,7 @@
 
 
 
-## ![Image](https://github.com/user-attachments/assets/7298448c-6efd-4ee5-92c8-67f831c14360) Transformando Datos en Tiempo Real en Decisiones de Negocio
+# ![Image](https://github.com/user-attachments/assets/47b7322f-0972-43bb-b8f5-a44c6516ea97) Transformando Datos en Tiempo Real en Decisiones de Negocio
 
 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
@@ -63,18 +63,21 @@ Stack: Kafka, PySpark, Delta Lake, Docker, Power BI.
 🔗 Ver el repositorio del proyecto aquí ([Click Aquí - Análisis de Tráfico en Tiempo Real](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main))
 
 
-__________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **📫 Conectemos**
-___________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ***"Si buscas un Data Engineer que hable el idioma del negocio tanto como el de los datos, hablemos"***.
 
-💼 LinkedIn
+💼 LinkedIn: www.linkedin.com/in/allan-gonzales-heredia-13a557b5/
+
 📧 allgoher007@gmail.com
 
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
  # PROYECTOS INGENIERIA DE DATOS
+ ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+ 
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
 
  ![image](https://github.com/user-attachments/assets/4360a69a-3f54-482c-9a37-046dc4313603)
