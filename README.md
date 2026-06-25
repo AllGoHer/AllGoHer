@@ -2,7 +2,7 @@
 
 
 
-# ![Image](https://github.com/user-attachments/assets/47b7322f-0972-43bb-b8f5-a44c6516ea97) Transformando Datos en Tiempo Real en Decisiones de Negocio
+#  Transformando Datos en Tiempo Real en Decisiones de Negocio
 
 🎓 Ingeniero Empresarial | **📊 Streaming Data Engineer & Lakehouse** | 🚀 Project Manager
 
@@ -102,6 +102,36 @@ ________________________________________________________________________________
  ![image](https://github.com/user-attachments/assets/402989fd-f323-438d-ab3d-54659d0fc6f5)
  ![image](https://github.com/user-attachments/assets/2e90743f-78d7-4d11-baf7-55de3441c44c)
  ![image](https://github.com/user-attachments/assets/c32e550d-14a2-4f75-9425-885aec91a000)
+
+## 🛠️ **Stack Tecnológico**
+
+### **Streaming & Real-Time**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+
+### **Data Platforms**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0062B0?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### **Orchestration & Transformation**
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### **Storage & Governance**
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **BI & Analytics**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![MetaBase](https://img.shields.io/badge/MetaBase-0097A7?style=for-the-badge&logo=metabase&logoColor=white)
  
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
