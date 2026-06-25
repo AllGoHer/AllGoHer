@@ -44,9 +44,9 @@ ________________________________________________________________________________
 |---------|--------------|
 | Ingesta & Streaming en Tiempo Real | Apache Kafka • Apache Flink • Apache Spark (Structured Streaming) |
 | Procesamiento & Transformación | Apache Spark • DBT • SQL Avanzado • Python |
-| Plataformas Cloud & Almacenamiento | Databricks • Microsoft Fabric • Snowflake • Hive Metastore * Delta Lake |
-| Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux * Kubernet * Terraform * Gestión de Proyectos (Agile/Waterfall) |
-| Análisis | SQL, Power BI, Data Modeling, Star Schema, SCD Type 2 |
+| Plataformas Cloud & Almacenamiento | Databricks • Microsoft Fabric • Snowflake • Hive Metastore • Delta Lake |
+| Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux • Kubernet • Terraform |
+| Análisis | SQL  • Power BI  • Data Modeling  • Star Schema  • SCD Type 2 |
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📁 Caso de Estudio Destacado
@@ -81,131 +81,13 @@ ________________________________________________________________________________
  
  A continuación se presenta un cuadro con proyectos realizados de ingeneira de datos, en cual se explica el objetivo del proyecto y stack tecnologico utilizados en cada uno de ellos.
 
- ![image](https://github.com/user-attachments/assets/4360a69a-3f54-482c-9a37-046dc4313603)
- ![image](https://github.com/user-attachments/assets/0898f7fe-253a-4093-a550-036f4960a293)
- ![image](https://github.com/user-attachments/assets/a30761db-2f29-4754-b2cf-98015b9e2962)
- ![image](https://github.com/user-attachments/assets/4033aa50-2f0a-4311-9f32-588a815b127b)
- ![image](https://github.com/user-attachments/assets/4fbd3609-dd7a-4a8f-904a-b665b9befc06)
- ![image](https://github.com/user-attachments/assets/73915550-2cd2-4608-87b3-b3fc5a46ba20)
- ![image](https://github.com/user-attachments/assets/0aca225c-f924-49d2-aaf3-d9e7eeb14133)
- ![image](https://github.com/user-attachments/assets/678510d5-f116-4c14-99b5-42c945d2f682)
- ![image](https://github.com/user-attachments/assets/c63bd37c-37cd-43fa-a729-7209b0db9838)
- ![image](https://github.com/user-attachments/assets/4526acfe-8006-44fe-b96f-a14dab62c7bb)
- ![image](https://github.com/user-attachments/assets/454f34c7-9372-4d31-b7a2-ffad73ea03c4)
- ![image](https://github.com/user-attachments/assets/db3bbac2-464d-4314-aaf9-641868f14394)
- ![image](https://github.com/user-attachments/assets/5b5a61a5-6656-426a-891a-cf413c264a5f)
- ![image](https://github.com/user-attachments/assets/e06ad88f-1940-4e3b-9da8-34f3dc3e7c05)
- ![image](https://github.com/user-attachments/assets/d310c975-b42a-4b04-a989-c27ed7a8579a)
- ![image](https://github.com/user-attachments/assets/7a1f3384-a3af-4a45-bb62-edc67df3b538)
- ![image](https://github.com/user-attachments/assets/cd07208c-7339-49c3-88e8-42f75d3df6b7)
- ![image](https://github.com/user-attachments/assets/92f7a826-124f-4ea9-9f10-3f8044c73967)
- ![image](https://github.com/user-attachments/assets/044613da-1567-4f52-bdfe-71be87a74d3f)
- ![image](https://github.com/user-attachments/assets/402989fd-f323-438d-ab3d-54659d0fc6f5)
- ![image](https://github.com/user-attachments/assets/2e90743f-78d7-4d11-baf7-55de3441c44c)
- ![image](https://github.com/user-attachments/assets/c32e550d-14a2-4f75-9425-885aec91a000)
+ ![image](https://github.com/user-attachments/assets/4360a69a-3f54-482c-9a37-046dc4313603) ![image](https://github.com/user-attachments/assets/0898f7fe-253a-4093-a550-036f4960a293)  ![image](https://github.com/user-attachments/assets/a30761db-2f29-4754-b2cf-98015b9e2962)  ![image](https://github.com/user-attachments/assets/4033aa50-2f0a-4311-9f32-588a815b127b)   ![image](https://github.com/user-attachments/assets/4fbd3609-dd7a-4a8f-904a-b665b9befc06)   ![image](https://github.com/user-attachments/assets/73915550-2cd2-4608-87b3-b3fc5a46ba20)   ![image](https://github.com/user-attachments/assets/0aca225c-f924-49d2-aaf3-d9e7eeb14133)   ![image](https://github.com/user-attachments/assets/678510d5-f116-4c14-99b5-42c945d2f682)  ![image](https://github.com/user-attachments/assets/c63bd37c-37cd-43fa-a729-7209b0db9838)   ![image](https://github.com/user-attachments/assets/4526acfe-8006-44fe-b96f-a14dab62c7bb)  ![image](https://github.com/user-attachments/assets/454f34c7-9372-4d31-b7a2-ffad73ea03c4)   ![image](https://github.com/user-attachments/assets/db3bbac2-464d-4314-aaf9-641868f14394)  ![image](https://github.com/user-attachments/assets/5b5a61a5-6656-426a-891a-cf413c264a5f)  ![image](https://github.com/user-attachments/assets/e06ad88f-1940-4e3b-9da8-34f3dc3e7c05) ![image](https://github.com/user-attachments/assets/d310c975-b42a-4b04-a989-c27ed7a8579a) ![image](https://github.com/user-attachments/assets/7a1f3384-a3af-4a45-bb62-edc67df3b538) ![image](https://github.com/user-attachments/assets/cd07208c-7339-49c3-88e8-42f75d3df6b7)  ![image](https://github.com/user-attachments/assets/92f7a826-124f-4ea9-9f10-3f8044c73967)  ![image](https://github.com/user-attachments/assets/044613da-1567-4f52-bdfe-71be87a74d3f)  ![image](https://github.com/user-attachments/assets/402989fd-f323-438d-ab3d-54659d0fc6f5)  ![image](https://github.com/user-attachments/assets/2e90743f-78d7-4d11-baf7-55de3441c44c)   ![image](https://github.com/user-attachments/assets/c32e550d-14a2-4f75-9425-885aec91a000)
 
 ## 🛠️ **Stack Tecnológico**
 
-### **Streaming & Real-Time**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-
-### **Data Platforms**
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0062B0?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### **Orchestration & Transformation**
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-### **Storage & Governance**
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **BI & Analytics**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MetaBase](https://img.shields.io/badge/MetaBase-0097A7?style=for-the-badge&logo=metabase&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  ![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-0062B0?style=for-the-badge&logo=microsoft&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)  ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![MetaBase](https://img.shields.io/badge/MetaBase-0097A7?style=for-the-badge&logo=metabase&logoColor=white)
  
-
-
-
-## 🛠️ **Tech Stack**
-
-### **Streaming & Real-Time**
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)](https://flink.apache.org/)
-
-### **Data Platforms**
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://snowflake.com/)
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0062B0?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com/fabric)
-
-### **Orchestration & Transformation**
-[![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
-[![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://getdbt.com/)
-
-### **Storage & Governance**
-[![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)](https://delta.io/)
-[![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)](https://hive.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
-
-### **Infrastructure**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io/)
-
-### **BI & Visualization**
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![MetaBase](https://img.shields.io/badge/MetaBase-0097A7?style=for-the-badge&logo=metabase&logoColor=white)](https://metabase.com/)
-
-
-
-## 🛠️ **Tech Stack**
-
-### **Streaming & Real-Time**
-| Technology | Badge |
-|------------|-------|
-| Apache Kafka | ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white) |
-| Apache Flink | ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white) |
-| Apache Spark | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) |
-
-### **Data Platforms**
-| Technology | Badge |
-|------------|-------|
-| Databricks | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| Snowflake | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
-| Microsoft Fabric | ![Fabric](https://img.shields.io/badge/Fabric-0062B0?style=flat-square&logo=microsoft&logoColor=white) |
-
-### **Orchestration & Transformation**
-| Technology | Badge |
-|------------|-------|
-| Apache Airflow | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) |
-| DBT | ![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white) |
-
-### **Storage & Governance**
-| Technology | Badge |
-|------------|-------|
-| Delta Lake | ![Delta](https://img.shields.io/badge/Delta-003366?style=flat-square&logo=delta&logoColor=white) |
-| Hive Metastore | ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black) |
-| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-
-### **Infrastructure & DevOps**
-| Technology | Badge |
-|------------|-------|
-| Docker | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| Kubernetes | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| Terraform | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-
-
 
 
 
