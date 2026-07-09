@@ -86,13 +86,14 @@ ________________________________________________________________________________
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
- | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Click Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
+ | Smart Grid Analytics | Apache Flink, Apache Kafka, PostgreSQL, Apache Superset | [Click Aquí]() |
  | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
  | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
- | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) | 
- | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
+ | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) |
+ | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Click Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
+ | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
  | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
  | PySpark Streaming | Apache Spark, Databricks, Python, SQL | [Click Aquí](https://github.com/AllGoHer/PySpark-Streaming) |
