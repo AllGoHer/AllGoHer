@@ -86,6 +86,7 @@ ________________________________________________________________________________
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
+ | Sistema de Detección de Fraude Bancario en Tiempo Real | Apache Flink, Apache Kafka (KRaft), MySQL, Grafana, Docker y Python | [Click Aquí]() |
  | Smart Grid Analytics | Apache Flink, Apache Kafka, PostgreSQL, Apache Superset | [Click Aquí](https://github.com/AllGoHer/Smart-Grid-Analytics) |
  | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
  | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
