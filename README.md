@@ -105,10 +105,11 @@ ________________________________________________________________________________
  | Databricks Declarative Pipeline - Delta Live Tables | Databricks & Apache Spark | [Click Aquí](https://github.com/AllGoHer/Databricks-Declarative-Pipelines---Delta-Live-Tables/blob/main/README.md) |
  | Databricks  Lakeflow Jobs | Databricks, Apache Spark, SQL y Python | [Click Aquí](https://github.com/AllGoHer/Databricks-Lakeflow-Jobs) |
  | Databricks Lakebase - LTAP | Databricks & PostgreSQL |  [Click Aquí](https://github.com/AllGoHer/Databricks-Lakebase---LTAP/blob/main/README.md) | 
+ | Databricks SQL Warehouse + AI Chatbot | Azure Databricks, Databricks SQL, Warehouse, Data Modeling, AI RAG | [Click Aquí](https://github.com/AllGoHer/Databricks-SQL-Warehouse-AI-Chatbot) |
  | Airflow for DE| Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Airflow-for-Data-Engineer/tree/main) |
  | Docker para Ingeniero de Datos | DOCKER, Python, MySQL, Flask | [Click Aquí](https://github.com/AllGoHer/Docker-para-Ingenier-a-de-Datos) |
  | SnowFlake para Ingenieria de datos | SnowFlake | [Click Aquí](https://github.com/AllGoHer/SnowFlake-para-Ingenieria-de-datos) |
- | Databricks SQL Warehouse + AI Chatbot | Azure Databricks, Databricks SQL, Warehouse, Data Modeling, AI RAG | [Click Aquí](https://github.com/AllGoHer/Databricks-SQL-Warehouse-AI-Chatbot) |
+ | DBT (Data Build Tool) con CI/CD | DBT, GIT, DATABRICKS y SQL | Click Aquí() | 
  | Creando Deployment con Kubernetes | Kubernetes, Docker, Linux | [Click Aquí](https://github.com/AllGoHer/Creando-Deployment-con-Kubernetes) |
  | Python para ingenieria de Datos | Python | [Click Aquí](https://github.com/AllGoHer/Python-for-Data-Enginners) |
  | SQL Moderno | SQL | [Click Aquí](https://github.com/AllGoHer/SQL-Moderno) |
