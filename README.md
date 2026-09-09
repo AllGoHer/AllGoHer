@@ -94,7 +94,7 @@ ________________________________________________________________________________
  | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Click Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
- | Walmart Data Engineering Project | Databricks, DBT y Airflow | [Click Aquí](https://github.com/AllGoHer/Walmart-Data-Engineering-Project-/blob/main/README.md) |  
+ | Walmart Data Engineering Project | Databricks, DBT, Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Walmart-Data-Engineering-Project-/tree/main) |  
  | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
  | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
