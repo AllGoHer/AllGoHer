@@ -96,7 +96,7 @@ ________________________________________________________________________________
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
  | Walmart Data Engineering Project | Databricks, DBT, Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Walmart-Data-Engineering-Project-/tree/main) |  
  | UBER Real-Time Data Engineering Project - Azure Databricks Streaming Project | FastApi + Jinja2, Databricks, Azure Event Hubs (Kafka gestionado), Spark Declarative Pipeline, Azure Data Factory, Spark Structured Streaming, ADLS Gen2, Star Schema y GitHub | [Click Aquí](https://github.com/AllGoHer/Uber-Real-Time-Data-Engineering-Pipeline) |
- | SPOTIFY Azure Data Engineering Project | Azure Data Factory, Azure Databricks, Azure SQL DB, Spark Streaming, jinja2, Star Schema and Slowly Changing Dimensions (SCD), DLT, Databricks Asset Bundles For CI/CD | [Click_Aquí](https://github.com/AllGoHer/Spotify-Project/tree/main) |
+ | SPOTIFY Azure Data Engineering Project | Azure Data Factory, Azure Databricks, Azure SQL DB, Spark Streaming, jinja2, Star Schema, Slowly Changing Dimensions (SCD), DLT, Unity Catalog and  Databricks Asset Bundles For CI/CD | [Click Aquí](https://github.com/AllGoHer/Spotify-Project/tree/main) |
  | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
  | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
  | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
