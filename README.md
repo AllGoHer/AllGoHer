@@ -14,14 +14,15 @@ Construyo arquitecturas de datos resilientes en Azure, especializándome en pipe
 Mi background en Ingeniería Empresarial y gestión de proyectos me permite un puente crítico: diseño sistemas de datos que no solo escalan técnicamente, sino que se alinean con el valor de negocio y se entregan con metodología.
 
 ### 🛠️ Core Stack:
+<br><br>
 
-      ☁️ **Cloud-Native:** Azure Data Factory | ADLS Gen2 | Event Hubs 
+ ☁️ **Cloud-Native:** Azure Data Factory | ADLS Gen2 | Event Hubs 
 
-      🧱 **Lakehouse:** Azure Databricks | Delta Lake | Unity Catalog
+🧱 **Lakehouse:** Azure Databricks | Delta Lake | Unity Catalog
  
-      ⚡ **Streaming:** Apache Kafka | Apache Flink | Spark Structured Streaming | Event Time & Watermarks (Detección de fraude, telemetría en vivo)
+⚡ **Streaming:** Apache Kafka | Apache Flink | Spark Structured Streaming | Event Time & Watermarks (Detección de fraude, telemetría en vivo)
 
-      🔄 **Transformation:** dbt | PySpark | SQL
+🔄 **Transformation:** dbt | PySpark | SQL
 
 
 🚀 **Enfoque actual:** Diseñando arquitecturas Medallion (Bronze → Silver → Gold) con ingesta incremental (CDC) y procesamiento de eventos con semántica Exactly-Once.
