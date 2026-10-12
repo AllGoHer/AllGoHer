@@ -5,17 +5,22 @@ ________________________________________________________________________________
 # Transformando Datos en Tiempo Real en Decisiones de Negocio 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### 🎓 Ingeniero Empresarial | **📊 <mark>Streaming Data Engineer & Lakehouse**</mark> | 🚀 Project Manager
-
-
-
 ### 👋 Hola, soy Allan Gonzales
 
+### Cloud-Native Data Engineer | Streaming Specialist | Azure & Databricks
 
+Construyo arquitecturas de datos resilientes en Azure, especializándome en pipelines de Streaming en tiempo real (Kafka/Flink) y Lakehouses gobernados (Databricks/Unity Catalog).
 
-Soy Ingeniero Empresarial especializado en Ingeniería de Datos con enfoque en arquitecturas modernas de procesamiento continuo (Streaming) y análisis en tiempo real.
+Mi background en Ingeniería Empresarial y gestión de proyectos me permite un puente crítico: diseño sistemas de datos que no solo escalan técnicamente, sino que se alinean con el valor de negocio y se entregan con metodología.
 
-Mi enfoque está en el diseño de sistemas que procesan millones de eventos por segundo con latencia de milisegundos, garantizando la tolerancia a fallos y la idempotencia. Mi background en ingeniería empresarial y gestión de proyectos me permite diseñar sistemas que no solo escalan técnicamente, sino que entregan valor medible al negocio desde el día uno.
+#### 🛠️ Core Stack:
+
+☁️ **Cloud-Native:** Azure Data Factory | ADLS Gen2 | Event Hubs 
+🧱 **Lakehouse:** Azure Databricks | Delta Lake | Unity Catalog
+⚡ **Streaming:** Apache Kafka | Apache Flink | Spark Structured Streaming | Event Time & Watermarks (Detección de fraude, telemetría en vivo).
+🔄 **Transformation:** dbt | PySpark | SQL
+
+🚀 **Enfoque actual:** Diseñando arquitecturas Medallion (Bronze → Silver → Gold) con ingesta incremental (CDC) y procesamiento de eventos con semántica Exactly-Once.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ***"La tecnología mueve datos; la confianza en los datos mueve negocios".***
@@ -43,7 +48,7 @@ ________________________________________________________________________________
 | Ingesta & Streaming en Tiempo Real | Apache Kafka • Apache Flink • Apache Spark (Structured Streaming) |
 | Procesamiento & Transformación | Apache Spark • DBT • SQL Avanzado • Python |
 | Plataformas Cloud & Almacenamiento | Databricks • Microsoft Fabric • Snowflake • Hive Metastore • Delta Lake |
-| Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux • Kubernet • Terraform |
+| Orquestación, Infraestructura & DevOps | Apache Airflow • Docker • Git • Linux |
 | Análisis | SQL  • Power BI  • Data Modeling  • Star Schema  • SCD Type 2 |
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
