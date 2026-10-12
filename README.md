@@ -7,13 +7,13 @@ ________________________________________________________________________________
 
 ### 👋 Hola, soy Allan Gonzales
 
-#### Cloud-Native Data Engineer | Streaming Specialist | Azure & Databricks
+### Cloud-Native Data Engineer | Streaming Specialist | Azure & Databricks
 
 Construyo arquitecturas de datos resilientes en Azure, especializándome en pipelines de Streaming en tiempo real (Kafka/Flink) y Lakehouses gobernados (Databricks/Unity Catalog).
 
 Mi background en Ingeniería Empresarial y gestión de proyectos me permite un puente crítico: diseño sistemas de datos que no solo escalan técnicamente, sino que se alinean con el valor de negocio y se entregan con metodología.
 
-#### 🛠️ Core Stack:
+### 🛠️ Core Stack:
 
 ☁️ **Cloud-Native:** Azure Data Factory | ADLS Gen2 | Event Hubs 
 
