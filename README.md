@@ -100,7 +100,7 @@ ________________________________________________________________________________
  | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
  | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
  | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) |
- | Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics | Apache Kafka, Apache Flink, Docker, Polar, PostgreSQL, Python y Grafana | [Click Aquí]() |
+ | Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics | Apache Kafka, Apache Flink, Docker, Polar, PostgreSQL, Python y Grafana | [Click Aquí](https://github.com/AllGoHer/Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics) |
  | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Click Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
  | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
  | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
