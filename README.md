@@ -95,26 +95,27 @@ ________________________________________________________________________________
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
- | Sistema de Detección de Fraude Bancario en Tiempo Real | Apache Flink, Apache Kafka (KRaft), MySQL, Grafana, Docker y Python | [Click Aquí](https://github.com/AllGoHer/Sistema-de-Detecci-n-de-Fraude-Bancario-en-Tiempo-Real) |
- | Análisis del sistema eléctrico Inteligente / Smart Grid Analytics | Apache Flink, Apache Kafka, PostgreSQL, Apache Superset | [Click Aquí](https://github.com/AllGoHer/Smart-Grid-Analytics) |
- | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Click Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
- | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Click Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
- | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Click Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) |
- | Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics | Apache Kafka, Apache Flink, Docker, Polar, PostgreSQL, Python y Grafana | [Click Aquí](https://github.com/AllGoHer/Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics) |
- | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Click Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
- | Retail Analytics | PySpark, Docker y Power BI | [Click Aquí](https://github.com/AllGoHer/Retail-Analytics) |
- | Hotel Analytics | Snowflake | [Click Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
- | Walmart Data Engineering Project | Databricks, DBT, Airflow y Docker | [Click Aquí](https://github.com/AllGoHer/Walmart-Data-Engineering-Project-/tree/main) |  
- | UBER Real-Time Data Engineering Project - Azure Databricks Streaming Project | FastApi + Jinja2, Databricks, Azure Event Hubs (Kafka gestionado), Spark Declarative Pipeline, Azure Data Factory, Spark Structured Streaming, ADLS Gen2, Star Schema y GitHub | [Click Aquí](https://github.com/AllGoHer/Uber-Real-Time-Data-Engineering-Pipeline) |
- | SPOTIFY Azure Data Engineering Project | Azure Data Factory, Azure Databricks, Azure SQL DB, Spark Streaming, jinja2, Star Schema, Slowly Changing Dimensions (SCD), DLT, Unity Catalog and  Databricks Asset Bundles For CI/CD | [Click Aquí](https://github.com/AllGoHer/Spotify-Project/tree/main) |
- | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Click Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
- | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Click Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
- | PySpark para Ingenieria de Datos | PySpark y Docker | [Click Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
- | PySpark Streaming | Apache Spark, Databricks, Python, SQL | [Click Aquí](https://github.com/AllGoHer/PySpark-Streaming) |
- | PySpark Real-Time Scenarios: Incremental Loads, Upserts & Data Warehousing | Pyspark & Databricks - Delta lake | [Click Aquí](https://github.com/AllGoHer/PySpark-Real-Time-Scenarios) |
- | Spark Declarative Pipeline | Spark & Databricks | [Click Aquí](https://github.com/AllGoHer/Spark-Declarative-Pipeline) |
- | Delta Lake 4.2 | Delta Lake & Databricks | [Click Aquí](https://github.com/AllGoHer/Delta-Lake-4.2/blob/main/README.md) |
- | Unity Catalog | Databricks | [Click Aquí](https://github.com/AllGoHer/Unity-Catalog) |
+ | Sistema de Detección de Fraude Bancario en Tiempo Real | Apache Flink, Apache Kafka (KRaft), MySQL, Grafana, Docker y Python | [Clic Aquí](https://github.com/AllGoHer/Sistema-de-Detecci-n-de-Fraude-Bancario-en-Tiempo-Real) |
+ | Análisis del sistema eléctrico Inteligente / Smart Grid Analytics | Apache Flink, Apache Kafka, PostgreSQL, Apache Superset | [Clic Aquí](https://github.com/AllGoHer/Smart-Grid-Analytics) |
+ | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Clic Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
+ | Real-Time E-Commerce Pipeline | Kafka, Python & Snowflake | [Clic Aquí](https://github.com/AllGoHer/Real-Time-E-Commerce-Pipeline) |
+ | Real-Time Flight Operations Data Pipeline | Airflow, Snowflake, Docker, Python | [Clic Aquí](https://github.com/AllGoHer/Real-Time-Flight-Operations-Data-Pipeline) |
+ | Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics | Apache Kafka, Apache Flink, Docker, Polar, PostgreSQL, Python y Grafana | [Clic Aquí](https://github.com/AllGoHer/Real-Time-Telecom-CDR-Fraud-Detection-Network-Analytics) |
+ | Red Eléctrica Inteligente | Apache Flink, Apache Kafka, PostgreSql, Prometheus, Grafana, Docker, Confluent-Kafka | [Clic Aquí](https://github.com/AllGoHer/Red-Electrica-Inteligente) |
+ | Retail Analytics | PySpark, Docker y Power BI | [Clic Aquí](https://github.com/AllGoHer/Retail-Analytics) |
+ | Hotel Analytics | Snowflake | [Clic Aquí](https://github.com/AllGoHer/Hotel-Bookings-Analytics) |
+ | Walmart Data Engineering Project | Databricks, DBT, Airflow y Docker | [Clic Aquí](https://github.com/AllGoHer/Walmart-Data-Engineering-Project-/tree/main) |  
+ | UBER Real-Time Data Engineering Project - Azure Databricks Streaming Project | FastApi + Jinja2, Databricks, Azure Event Hubs (Kafka gestionado), Spark Declarative Pipeline, Azure Data Factory, Spark Structured Streaming, ADLS Gen2, Star Schema y GitHub | [Clic Aquí](https://github.com/AllGoHer/Uber-Real-Time-Data-Engineering-Pipeline) |
+ | SPOTIFY Azure Data Engineering Project | Azure Data Factory, Azure Databricks, Azure SQL DB, Spark Streaming, jinja2, Star Schema, Slowly Changing Dimensions (SCD), DLT, Unity Catalog and  Databricks Asset Bundles For CI/CD | [Clic Aquí](https://github.com/AllGoHer/Spotify-Project/tree/main) |
+ | Análisis del Mercado Laboral del Ingeniero de Datos | SQL, DuckDB, Git | [Clic Aquí](https://github.com/AllGoHer/An-lisis-del-Mercado-Laboral-del-Ingeniero-de-Datos/blob/main/README.md) |
+ | Apache Kafka: Ingeniería de Eventos y Semántica de Producción | Apache Kafka and Docker | [Clic Aquí](https://github.com/AllGoHer/Kafka-for-Data-Enginner) |
+ | Apache Iceberg | Iceberg, Spark y SQL | [Clic Aquí]() |
+ | PySpark para Ingenieria de Datos | PySpark y Docker | [Clic Aquí](https://github.com/AllGoHer/PySpark-para-Ingenieria-de-Datos) |
+ | PySpark Streaming | Apache Spark, Databricks, Python, SQL | [Clic Aquí](https://github.com/AllGoHer/PySpark-Streaming) |
+ | PySpark Real-Time Scenarios: Incremental Loads, Upserts & Data Warehousing | Pyspark & Databricks - Delta lake | [Clic Aquí](https://github.com/AllGoHer/PySpark-Real-Time-Scenarios) |
+ | Spark Declarative Pipeline | Spark & Databricks | [Clic Aquí](https://github.com/AllGoHer/Spark-Declarative-Pipeline) |
+ | Delta Lake 4.2 | Delta Lake & Databricks | [Clic Aquí](https://github.com/AllGoHer/Delta-Lake-4.2/blob/main/README.md) |
+ | Unity Catalog | Databricks | [Clic Aquí](https://github.com/AllGoHer/Unity-Catalog) |
  | Databricks Asset Bundles CI/CD | Databricks, Git y GitHub | [Click Aquí](https://github.com/AllGoHer/Databricks-Asset-Bundles-CI-CD/tree/main) |
  | Databricks Declarative Pipeline - Delta Live Tables | Databricks & Apache Spark | [Click Aquí](https://github.com/AllGoHer/Databricks-Declarative-Pipelines---Delta-Live-Tables/blob/main/README.md) |
  | Databricks  Lakeflow Jobs | Databricks, Apache Spark, SQL y Python | [Click Aquí](https://github.com/AllGoHer/Databricks-Lakeflow-Jobs) |
