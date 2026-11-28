@@ -95,7 +95,7 @@ ________________________________________________________________________________
 
  |**PROYECTO**| **STACK TECNOLOGICO** | **ENLACE AL PROYECTO** |
  |------------|-----------------------|------------------------|
- | Real-Time Logistics Control Tower | PostgreSQL, Apache Kafka, Debezium, Apache Flink SQL, Apache Iceberg, RustFS Object Storage, Trino, Apache Superset, Python, Docker & Docker Compose, Prometheus, Grafana y GitHub Action | [Atlas Flow]() |
+ | Real-Time Supply Chain - AtlasFlow| PostgreSQL, Apache Kafka, Debezium, Apache Flink SQL, Apache Iceberg, RustFS Object Storage, Trino, Apache Superset, Python, Docker & Docker Compose, Prometheus, Grafana y GitHub Action | [Atlas Flow]() |
  | Sistema de Detección de Fraude Bancario en Tiempo Real | Apache Flink, Apache Kafka (KRaft), MySQL, Grafana, Docker y Python | [Clic Aquí](https://github.com/AllGoHer/Sistema-de-Detecci-n-de-Fraude-Bancario-en-Tiempo-Real) |
  | Análisis del sistema eléctrico Inteligente / Smart Grid Analytics | Apache Flink, Apache Kafka, PostgreSQL, Apache Superset | [Clic Aquí](https://github.com/AllGoHer/Smart-Grid-Analytics) |
  | Análisis del Tráfico en Tiempo Real | Apache Kafka, Apache Spark, Docker, Delta Lake, Hive Metastore, PostgreSQL, Pyspark, Power BI | [Clic Aquí](https://github.com/AllGoHer/Trafico-en-Tiempo-Real/tree/main) |
